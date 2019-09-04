@@ -1,1 +1,3 @@
-*.aspx linguist-language=Java
+*.html linguist-language=Java
+*.js inguist-language=Java
+*.css linguist-language=Java
