@@ -1,0 +1,5 @@
+# libs
+/out
+
+# mac files
+.DS_Store
